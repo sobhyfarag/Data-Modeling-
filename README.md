@@ -19,4 +19,4 @@ This is a data modeling project for optimizing the data model and data pipeline 
 
 Steps: 
 1- Connecting to the data sorce (Extacting the data) using Power Query: **Import** *Establishment Survey* Sheet.
-!["alt text"]("https://github.com/sobhyfarag/Data-Modeling-Project/blob/main/Screenshot%20(414).png")
+![alt text](https://github.com/sobhyfarag/Data-Modeling-Project/blob/main/Screenshot%20(414).png)
