@@ -8,3 +8,14 @@ This is a data modeling project for optimizing the data model and data pipeline 
 
 ### The Dataset:
 - The dataset I've used comes from **the United States Census Bureau** and summarizes survey data asked of manufacturing firms in 2018 and 2019. It contains a variety of measures around payroll and numbers of employees for several industries according to the North American Industry Classification System (NAICS).
+- Data Sources:
+    - the file contains 5 csv files:
+        - 1  : 
+        - 2 : 
+        - 3 : 
+        - 4 : 
+        - 5 : 
+        - :
+
+Steps: 
+1- Connecting to the data sorce (Extacting the data) using Power Query: **Import** *Establishment Survey* Sheet.
